@@ -1,3 +1,4 @@
 # Bull-Eyes2
 Swift UI game
-![Simulator Screenshot - iPhone 14 Pro - 2023-05-18 at 11 03 46](https://github.com/iwy2th/Bull-Eyes2/assets/92966362/652627ff-1790-409f-b34b-426c30f690b2)
+<img src="https://user-images.githubusercontent.com/92966362/239136643-a69013f9-09c3-4615-99f5-84e6d174cf3c.png" alt="" width="500" height="600">
+<!-- https://user-images.githubusercontent.com/92966362/239136643-a69013f9-09c3-4615-99f5-84e6d174cf3c.png -->
